@@ -1,0 +1,5 @@
+Anomaly Detected
+
+Anomaly Timestamp : 0:00:00.033333 hours - 0:00:01.300000 hours
+Anomaly Percentage : 97.5
+Anomaly Priority: Very High

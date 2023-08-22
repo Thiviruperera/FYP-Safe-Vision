@@ -1,0 +1,16 @@
+
+.idea/anomality_detection.iml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
+__pycache__/app.cpython-39.pyc
+__pycache__/service.cpython-39.pyc
+__pycache__/test2.cpython-39.pyc
+*.mp4
+*.avi
+model/anomality_detection.h5
+model/yolov3.pt
+model/anomality_detection.rar

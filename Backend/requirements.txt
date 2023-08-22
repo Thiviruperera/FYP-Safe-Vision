@@ -1,0 +1,13 @@
+flask
+tensorflow
+keras
+pandas
+matplotlib 
+flask 
+flask_cors 
+numpy 
+scikit-learn 
+imageai
+torch 
+torchvision 
+torchaudio
